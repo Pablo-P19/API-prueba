@@ -1,6 +1,6 @@
 {
   "videos": [
-    {
+   {
       "id": 1,
       "titulo": "shingeki",
       "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
@@ -17,10 +17,66 @@
       "descricao": "levi"
     },
     {
+      "id": 3,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "VieosTeste",
+      "descricao": "levi"
+    },
+    {
+      "id": 4,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "VieosTeste",
+      "descricao": "levi"
+    },
+    {
+      "id": 5,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "VieosTeste",
+      "descricao": "levi"
+    },
+    {
+      "id": 6,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "Data Science",
+      "descricao": "levi"
+    },
+    {
+      "id": 7,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "Data attack",
+      "descricao": "levi"
+    },
+    {
+      "id": 8,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "VieosTeste",
+      "descricao": "levi"
+    },
+    {
+      "id": 9,
+      "titulo": "levi",
+      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
+      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
+      "categoria": "DevOps",
+      "descricao": "levi"
+    },
+    {
       "titulo": "Como finalmente organizei minha ROTINA e me tornei mais PRODUTIVA!",
       "url": "https://youtu.be/yxvXKUTEOUI",
       "img": "https://i.ytimg.com/vi/yxvXKUTEOUI/maxresdefault.jpg",
-      "categoria": "VieosTeste",
+      "categoria": "Back-end",
       "descricao": "Oi gente! Não esquece de se inscrever para não perder mais conteúdo de programação e tecnologia!\n\nHoje trouxe um vídeo um pouquinho diferente do que venho postando (sobre explicação e códigos), mas é algo que vocês sempre me perguntam: como organizo minha rotina?\n\nEu sintetizei em um vídeo só várias das coisas que eu faço na minha rotina, e que melhoraram a minha produtividade nos últimos meses",
       "codigo": "5555",
       "id": 19

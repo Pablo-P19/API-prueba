@@ -1,129 +1,110 @@
 {
   "videos": [
-   {
-      "id": 1,
-      "titulo": "shingeki",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "Front-end",
-      "descricao": "attack"
+    {
+      "id": "3",
+      "titulo": "La magia detrás de Java #aluramás",
+      "link_video": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__3_.webp?updatedAt=1683420408396",
+      "categoria": 2,
+      "descripcion": "La magia detrás de Java #aluramás",
+      "codigo": 12345678
     },
     {
-      "id": 2,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "VieosTeste",
-      "descricao": "levi"
+      "id": "4",
+      "titulo": "Banco de datos MySQL Contenidos de ONE",
+      "link_video": "https://www.youtube.com/watch?v=8J0AoPZMVxA",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__2_.webp?updatedAt=1683420408360",
+      "categoria": 2,
+      "descripcion": "Banco de datos MySQL Contenidos de ONE",
+      "codigo": 12345678
     },
     {
-      "id": 3,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "VieosTeste",
-      "descricao": "levi"
+      "id": "5",
+      "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__5_.webp?updatedAt=1683420408323",
+      "categoria": 2,
+      "descripcion": "Spring Framework. ¿Qué es ? #AluraMás",
+      "codigo": 12345678
     },
     {
-      "id": 4,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "VieosTeste",
-      "descricao": "levi"
+      "id": "6",
+      "titulo": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__4_.webp?updatedAt=1683420408357",
+      "categoria": 2,
+      "descripcion": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "codigo": 12345678
     },
     {
-      "id": 5,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "VieosTeste",
-      "descricao": "levi"
+      "id": "7",
+      "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__5_.webp?updatedAt=1683420408323",
+      "categoria": 2,
+      "descripcion": "Spring Framework. ¿Qué es ? #AluraMás",
+      "codigo": 12345678
     },
     {
-      "id": 6,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "Data Science",
-      "descricao": "levi"
+      "id": "9",
+      "titulo": "Animando un texto en HTML y CSS #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=j71g5TiMA-M",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__8_.webp?updatedAt=1683420539462",
+      "categoria": 1,
+      "descripcion": "Animando un texto en HTML y CSS #AluraMás",
+      "codigo": 12345678
     },
     {
-      "id": 7,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "Data attack",
-      "descricao": "levi"
+      "id": "10",
+      "titulo": "¿Qué es JavaScript?",
+      "link_video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__10_.webp?updatedAt=1683420539411",
+      "categoria": 1,
+      "descripcion": "¿Qué es JavaScript?",
+      "codigo": 12345678
     },
     {
-      "id": 8,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "VieosTeste",
-      "descricao": "levi"
+      "id": "11",
+      "titulo": "Consejos de CSS FlexBox para comenzar #aluramás",
+      "link_video": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__11_.webp?updatedAt=1683420539420",
+      "categoria": 1,
+      "descripcion": "Consejos de CSS FlexBox para comenzar #aluramás",
+      "codigo": 12345678
     },
     {
-      "id": 9,
-      "titulo": "levi",
-      "url": "https://www.youtube.com/watch?v=9Tf45sArskw",
-      "img": "https://img.youtube.com/vi/9Tf45sArskw/maxresdefault.jpg",
-      "categoria": "DevOps",
-      "descricao": "levi"
+      "id": "12",
+      "titulo": "¿Por qué utilizar React?",
+      "link_video": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__9_.webp?updatedAt=1683420539407",
+      "categoria": 1,
+      "descripcion": "¿Por qué utilizar React?",
+      "codigo": 12345678
     },
     {
-      "titulo": "Como finalmente organizei minha ROTINA e me tornei mais PRODUTIVA!",
-      "url": "https://youtu.be/yxvXKUTEOUI",
-      "img": "https://i.ytimg.com/vi/yxvXKUTEOUI/maxresdefault.jpg",
-      "categoria": "Back-end",
-      "descricao": "Oi gente! Não esquece de se inscrever para não perder mais conteúdo de programação e tecnologia!\n\nHoje trouxe um vídeo um pouquinho diferente do que venho postando (sobre explicação e códigos), mas é algo que vocês sempre me perguntam: como organizo minha rotina?\n\nEu sintetizei em um vídeo só várias das coisas que eu faço na minha rotina, e que melhoraram a minha produtividade nos últimos meses",
-      "codigo": "5555",
-      "id": 19
+      "id": "13",
+      "titulo": "Box Model y Box sizing #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=ts9qfCKamKg",
+      "link_imagen": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__7_.webp?updatedAt=1683420539290",
+      "categoria": 1,
+      "descripcion": "Box Model y Box sizing #AluraMás",
+      "codigo": 12345678
     }
   ],
-  "categoria": [
+  "categorias": [
     {
-      "nome": "Front-end",
-      "descricao": "Videos que me ajudaram a desenvolver este projeto",
-      "cor": "#6BD1FF",
-      "codigo": 123,
-      "id": 1
+      "id": "1",
+      "nombre": "Front End",
+      "descripcion": "Formación de front end de Alura Latam",
+      "color": "#5df45e",
+      "codigo": "1"
     },
     {
-      "nome": "Back-end",
-      "descricao": "Videos que me ajudaram a desenvolver a api do projeto",
-      "cor": "#6B5BE2",
-      "codigo": 123,
-      "id": 2
-    },
-    {
-      "nome": "DevOps",
-      "descricao": "descricao",
-      "cor": "#FF8C2A",
-      "codigo": 123,
-      "id": 3
-    },
-    {
-      "nome": "VieosTeste",
-      "descricao": "Videos de teste",
-      "cor": "#cf6fdc",
-      "codigo": "222",
-      "id": 4
-    },
-    {
-      "nome": "Data Science",
-      "descricao": "A ciência de dados é o estudo dos dados para extrair insights significativos para os negócios.",
-      "cor": "#6500a8",
-      "codigo": "222",
-      "id": 5
-    },
-    {
-      "nome": "Data attack",
-      "descricao": "on titan.",
-      "cor": "#000",
-      "codigo": "123",
-      "id": 5
+      "id": "2",
+      "nombre": "Back End",
+      "descripcion": "Formación de back end de Alura Latam",
+      "color": "#ffffff",
+      "codigo": "2"
     }
   ]
 }

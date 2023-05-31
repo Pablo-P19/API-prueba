@@ -215,7 +215,9 @@
       "descripcion": "\"Maneskin RTL\" es una presentación vibrante que destaca el carisma y el talento de la banda italiana. Con su estilo único de rock y su actitud desafiante, Maneskin cautiva al público con su poderosa presencia en el escenario. Las letras provocativas, los riffs enérgicos y la entrega apasionada crean una experiencia inolvidable llena de actitud rockera y autenticidad. Un espectáculo que muestra por qué Maneskin se ha convertido en una sensación global.",
       "codigo": "maneskin",
       "id": 24
-    },
+    }
+    
+  ],
   "categoria": [
     {
       "nombre": "Clásicos",
